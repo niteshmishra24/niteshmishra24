@@ -9,11 +9,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sbjBOGo6-eqqdweBLkoeGS1q1A-fONLm/view?usp=sharing](https://drive.google.com/file/d/1sbjBOGo6-eqqdweBLkoeGS1q1A-fONLm/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
+<h3 align="left">Social - </h3>
 <a href="https://twitter.com/nitesh_mishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitesh_mishra24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niteshmishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niteshmishra24" height="30" width="40" /></a>
 <a href="https://instagram.com/nitesh_._mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitesh_._mishra" height="30" width="40" /></a>
+<h3 align="left">Coding - </h3>
 <a href="https://www.hackerrank.com/niteshmishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niteshmishra24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itsniteshmishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsniteshmishra24" height="30" width="40" /></a>
 </p>
