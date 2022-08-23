@@ -17,4 +17,4 @@ GitHub Stats :
 - ⚡ Fun fact: ...
 -->
 ### GitHub Stats :
-![Nitesh Mishra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshmishra24&theme=radical)
+![Nitesh Mishra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshmishra24&theme=dark)
