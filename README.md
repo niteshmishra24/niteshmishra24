@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 GitHub Stats :
-![Nitesh Mishra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshmishra24 &theme=radical)
+![Nitesh Mishra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshmishra24&theme=radical)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
