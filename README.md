@@ -16,3 +16,5 @@ GitHub Stats :
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
+
+![Nitesh Mishra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshmishra24&theme=radical)
