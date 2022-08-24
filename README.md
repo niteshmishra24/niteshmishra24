@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **itsniteshmishra24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sbjBOGo6-eqqdweBLkoeGS1q1A-fONLm/view?usp=sharing](https://drive.google.com/file/d/1sbjBOGo6-eqqdweBLkoeGS1q1A-fONLm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sbjBOGo6-eqqdweBLkoeGS1q1A-fONLm/view?usp=sharing)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
