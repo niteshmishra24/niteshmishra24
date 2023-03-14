@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitesh Mishra</h1>
-<h3 align="center">I'm a software engineer who is passionate about making applications for android and ios using flutter. I also enjoy doing front-end development which includes HTML,CSS,JS. I recently started doing competitive programming to polish my problem solving skills.</h3>
+<h3 align="center">I'm a software engineer who is passionate about full stack web development. I recently started doing competitive programming to polish my problem solving skills.</h3>
 
 <p align="left"> <a href="https://twitter.com/nitesh_mishra24" target="blank"><img src="https://img.shields.io/twitter/follow/nitesh_mishra24?logo=twitter&style=for-the-badge" alt="nitesh_mishra24" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter** and upgrading my **Competitive Programming Skills**
+- 🌱 I’m currently learning **React** and upgrading my **Competitive Programming Skills**
 
 - 📫 How to reach me **itsniteshmishra24@gmail.com**
 
