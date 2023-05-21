@@ -14,7 +14,6 @@
 <h3 align="left">Social - </h3>
 <a href="https://twitter.com/nitesh_mishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitesh_mishra24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niteshmishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niteshmishra24" height="30" width="40" /></a>
-<a href="https://instagram.com/nitesh_._mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitesh_._mishra" height="30" width="40" /></a>
 <h3 align="left">Coding - </h3>
 <a href="https://www.hackerrank.com/niteshmishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niteshmishra24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itsniteshmishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsniteshmishra24" height="30" width="40" /></a>
